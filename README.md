@@ -6,7 +6,8 @@ data analytics, backed by a Master's degree in Data Science from the University 
 proficiency in Python, R, T-SQL, and Azure Data Factory with a proven track record of delivering exceptional results in data-driven
 projects.
 <img align="right" alt="GIF" src="https://github.com/KSwaviman/Kswaviman/blob/main/code.gif?raw=true" width="370" height="220" />
-Have a look at some of my projects.
+
+Have a look at some of my [projects](https://github.com/KSwaviman?tab=repositories).</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 In case we haven't met before 👇  
 
