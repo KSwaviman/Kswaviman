@@ -1,9 +1,9 @@
 ## Hey there 👋
 
 I am Swaviman Kumar,
-a Data Scientist with over 2 years of experience specializing in machine learning, NLP, and
+a Data Scientist with over 5 years of experience specializing in machine learning, NLP, and
 data analytics, backed by a Master's degree in Data Science from the University of Trento, Italy. Demonstrated
-proficiency in Python, R, T-SQL, GenAI, LLMs and Azure Services with a proven track record of delivering exceptional results in data-driven
+proficiency in Python, T-SQL, GenAI, LLMs and Azure Services with a proven track record of delivering exceptional results in data-driven
 projects.
 <img align="right" alt="GIF" src="https://github.com/KSwaviman/Kswaviman/blob/main/code.gif?raw=true" width="370" height="220" />
 
